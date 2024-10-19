@@ -39,3 +39,32 @@ p1{
 .button:hover {
     background-color: #0056b3;
 }
+.google-text {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+.google-text .g {
+    color: #4285F4; /* Blue */
+}
+
+.google-text .o1 {
+    color: #EA4335; /* Red */
+}
+
+.google-text .o2 {
+    color: #FBBC05; /* Yellow */
+}
+
+.google-text .g2 {
+    color: #34A853; /* Green */
+}
+
+.google-text .l {
+    color: #EA4335; /* Red */
+}
+
+.google-text .e {
+    color: #4285F4; /* Blue */
+}
